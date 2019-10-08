@@ -1,2 +1,5 @@
 # hello-world
-test repository
+
+doing exercizing
+
+
